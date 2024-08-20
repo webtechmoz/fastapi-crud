@@ -1,0 +1,4 @@
+flet,
+manage-sql,
+httpx,
+fastapi
